@@ -1,9 +1,9 @@
 ---
-title: "Palmer Penguins"
+title: "AGAPE MOOC -3"
 subtitle: ""
-excerpt: "Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites."
+excerpt: "The mooc consists of key information on the practical elements of Open Science that is needed for the PhD journey, with associated learning activities"
 date: 2019-07-02
-author: "Eric Anderson"
+author: "Agape initiative"
 featured: true
 draft: false
 tags:
@@ -29,7 +29,7 @@ links:
   url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
+### “The mooc consists of key information on the practical elements of Open Science that is needed for the PhD journey, with associated learning activities”
 
 *— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
 

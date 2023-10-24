@@ -4,6 +4,7 @@ subtitle: "A Mooc for PhDs by PhDs"
 excerpt: "The mooc consists of key information on the practical elements of Open Science that is needed for the PhD journey, with associated learning activities"
 date: 2023-10-25
 author: "An Agape Initiative"
+featured: true
 draft: false
 tags:
   - agape-project
