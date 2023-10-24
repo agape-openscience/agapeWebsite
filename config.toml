@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://agapeopenscience.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Agape Open Science Community"
@@ -129,20 +129,20 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
+    name = "Events"
     title = "Talks"
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
+    name = "Code of Conduct"
     title = "A collection"
     url = "/collection/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+#  [[menu.header]]
+ #   name = "Elements"
+  #  title = "Element Page"
+   # url = "/elements/"
+  #  weight = 6
     
   # Configure footer  
   [[menu.footer]]

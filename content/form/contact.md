@@ -1,7 +1,8 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "This template has a **contact-us** form built right in. All you need to do is add a valid recipient form-id to the front matter of this form page and you're ready to receive submissions."
+description: "If you’d like to connect with us or see what’s new you can do so by following us on our social media pages. Or you can send us an email at agape.open.science@gmail.com or submit your details/queries though this contact form. "
+
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
@@ -15,8 +16,6 @@ show_poweredby_formspree: true
 formspree_form_id: "id-from-formspree"
 ---
 
-** Contact page don't contain a body, just the front matter above.
-See form.html in the layouts folder.
+\*\* Contact page don't contain a body, just the front matter above. See form.html in the layouts folder.
 
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.
-**
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab. \*\*
