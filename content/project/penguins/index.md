@@ -1,5 +1,5 @@
 ---
-title: "AGAPE MOOC -3"
+title: "AGAPE MOOC 3"
 subtitle: ""
 excerpt: "The mooc consists of key information on the practical elements of Open Science that is needed for the PhD journey, with associated learning activities"
 date: 2019-07-02
