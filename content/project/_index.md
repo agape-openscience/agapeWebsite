@@ -9,7 +9,15 @@ show_button_links: false
 # for listing page layout
 layout: list-grid # list, list-sidebar, list-grid
 
-
+# for list-sidebar layout
+sidebar: 
+  author: "Agape Team"
+  title: Project Statistics
+  description: |
+    Check out our other projects as well.
+  text_link_label: ""
+  text_link_url: ""
+  show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all individual pages inside project/
 cascade:    

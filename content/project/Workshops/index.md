@@ -1,7 +1,7 @@
 ---
-title: "AGAPE MOOC -2"
-subtitle: "A Mooc for PhDs by PhDs"
-excerpt: "The mooc consists of key information on the practical elements of Open Science that is needed for the PhD journey, with associated learning activities"
+title: "Open Science workshop"
+subtitle: "<to be updated>"
+excerpt: "The workshop is conducted in person, facilitating collaborative learning and interactive participation in small teams."
 date: 2023-10-25
 author: "An Agape Initiative"
 featured: true
@@ -9,10 +9,10 @@ draft: false
 tags:
   - agape-project
 categories:
-  - mooc
-  - bookdown
-  - course
-layout: single
+  - workshop
+  - activities
+  - events
+layout: single-sidebar
 links:
 - icon: door-open
   icon_pack: fas
@@ -26,12 +26,8 @@ links:
 
 ![Agape logo](books.png)
 
-## An introductory course to open science for early career researchers
+## The workshop is conducted in person, facilitating collaborative learning and interactive participation in small teams.
 
----
+------------------------------------------------------------------------
 
-The MOOC is developed as an independent work under Agape initiative.  This is the first project of Agape and we focused on the creation of a massive online open course (MOOC) created by early career researchers (ECRs) for ECRs and other academics. The content of the MOOC is reviewed and beta-tested. The current version was launched in February 2023.
-
-This book is created using **R Markdown** and **bookdown**.
-
-More details regarding the template and resources developed for this mooc is listed under open source resources.
+<To be updated>
