@@ -39,6 +39,7 @@ After completing the course and passing the final quiz, each participant will ob
 
 The MOOC has multiple surveys to gauge the requirements of open science enthusiasts and their experience with our MOOC for continuous improvement. We would like to collect feedback from diverse communities though the activities mentioned above.
 
+
 This book is created using **R Markdown** and **bookdown**.
 
 More details regarding the template and resources developed for this mooc is listed under the * [Templates](../Templates/)*.
