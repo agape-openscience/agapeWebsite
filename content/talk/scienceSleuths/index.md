@@ -2,7 +2,7 @@
 title: "Science sleuths – an open peer review detective game"
 subtitle: "Science sleuths – an open peer review detective game"
 excerpt: "Agape team won the ENLIGHT Open Science Award  2023"
-date: 2023-11-02
+date: 2023-11-01
 date_end: "2023-11-03"
 featured: true
 show_post_time: false
