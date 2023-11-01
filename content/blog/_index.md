@@ -15,7 +15,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: 
   description: |
-    Currently under construction. If you are inetersted to submit your here, please contact us.
+    Currently under construction. If you are interested to submit your writing here, please contact us.
     
   author: ""
   text_link_label: Subscribe via RSS

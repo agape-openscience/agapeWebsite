@@ -23,7 +23,8 @@ links:
 
 ---
 
-We are really excited about our first award. Our founding member, Cassie gave a wonderful talk about our project in the award ceremony.
+We are really excited about our first award. 
+Our founding member, Cassie gave a wonderful talk about our project in the award ceremony.
 
 
 Congratulations to all winners.. 

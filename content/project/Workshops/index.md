@@ -12,7 +12,7 @@ categories:
   - workshop
   - activities
   - events
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas
@@ -26,7 +26,7 @@ links:
 
 ![Agape logo](books.png)
 
-## The workshop is conducted in person, facilitating collaborative learning and interactive participation in small teams.
+### The workshop is conducted in person, facilitating collaborative learning and interactive participation in small teams.
 
 ------------------------------------------------------------------------
 

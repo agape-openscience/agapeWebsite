@@ -1,13 +1,13 @@
 
 ---
 ## Configure page content in wide column
-title: "Why Agape?" # leave blank to exclude
+title: "Our Vision?" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  We are a group of budding researchers and PhD students who first met during a course focusing on open and collaborative research designed under the project Opening Doors funded by the Horizon 2020 EU programme for research and innovation. We felt that what we learned was both fascinating and helpful and believe that other students should have an opportunity to get familiar with these concepts too. Hence, we decided to create Agape. Agape means wide open, as is the open science philosophy and practice we want to promote. The word agapē originates from Greek and means love that is unconditional, such as our love for science (Okay, maybe not entirely unconditional, but you get the drift!). Under Agape we aim to share open science with fellow students and researchers, starting with this course and continuing with a series of workshops where we can learn, exchange our opinions and experiences, and together contribute to a better, more open future.
+  Under Agape, we aim to disseminate open science between PhD students and early career researchers across Ireland, and eventually take this mission internationally. We want to create a safe open science practising community for early career researchers where we can learn, exchange our opinions and experiences, and together change the future of science. We aim to do this in the way that science is undertaken, made freely available, and communicated in a FAIR and transparent way.
 
 show_outro: false
 <!-- outro: |

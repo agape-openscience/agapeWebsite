@@ -1,6 +1,6 @@
 ---
 title: "Contributor guidelines"
-weight: 3
+weight: 1
 subtitle: "Contributor guidelines aka Joining Agape."
 excerpt: "Thank you for your interest in joining the Agape community! We truly appreciate it. Whether you are looking for open science-related advice or want to share your expertise you found the right place."
 date: 2021-01-02

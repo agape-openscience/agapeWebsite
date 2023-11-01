@@ -14,7 +14,7 @@ categories:
 - PhDs
 
 # layout options: single or single-sidebar
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas

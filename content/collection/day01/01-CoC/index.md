@@ -1,7 +1,7 @@
 ---
 title: "Code of Conduct"
 weight: 1
-subtitle: "Write and send a single postcard."
+subtitle: "Code of Conduct"
 excerpt: "As a community we welcome everyone, and encourage a friendly and positive environment."
 date: 2023-01-02
 ---
