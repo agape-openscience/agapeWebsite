@@ -2,7 +2,7 @@
 title: "Lightening Talk"
 subtitle: "A Talk by Cassandra Murphy"
 excerpt: "We are sharing the journey of Agape, exploring where this project began, what we’ve accomplished so far and where we hope to go in the future"
-date: 2023-11-02
+date: 2023-11-01
 date_end: "2023-11-03"
 featured: true
 show_post_time: false
