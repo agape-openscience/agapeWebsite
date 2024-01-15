@@ -24,7 +24,7 @@ links:
 
 Agape activities has been shared and discussed in various blogs. You can find the links below:
 
-1.  NUIG Hardiman blog <iframe width='1000px' height='1000px' src='https://hardimanlibrary.blogspot.com/2023/06/agapeopen-science.html' > <p>Your browser does not support iframes</p> </iframe>
+1.  NUIG Hardiman blog <iframe width='500px' height='500px' src='https://hardimanlibrary.blogspot.com/2023/06/agapeopen-science.html' > <p>Your browser does not support iframes</p> </iframe>
 
 2.  ALL Institute blog 
 <iframe width='1000px' height='1000px' src='https://www.ideasinall.com/embracing-the-open-science-movement/' > <p>Your browser does not support iframes</p> </iframe>
