@@ -1,5 +1,5 @@
 ---
-title: A Project Portfolio To Grow
+title: Agape Projects 
 description: "A list of projects that are developed or currently on progress under the Agape initiative."
 author: "Agape team"
 show_post_thumbnail: true
